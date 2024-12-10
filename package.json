@@ -1,0 +1,26 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taposhsarker38/redux.git"
+  },
+  "author": "taposhsarker38 <taposhsarker38@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/taposhsarker38/redux/issues"
+  },
+  "homepage": "https://github.com/taposhsarker38/redux#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "redux": "^5.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^3.1.0"
+  }
+}
